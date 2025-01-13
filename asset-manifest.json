@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Appscrip-task-Piyush/static/css/main.8bb11e95.css",
-    "main.js": "/Appscrip-task-Piyush/static/js/main.bc95bcd4.js",
+    "main.css": "/Appscrip-task-Piyush/static/css/main.289844ab.css",
+    "main.js": "/Appscrip-task-Piyush/static/js/main.de028e87.js",
     "static/js/488.b566bca9.chunk.js": "/Appscrip-task-Piyush/static/js/488.b566bca9.chunk.js",
     "index.html": "/Appscrip-task-Piyush/index.html",
-    "main.8bb11e95.css.map": "/Appscrip-task-Piyush/static/css/main.8bb11e95.css.map",
-    "main.bc95bcd4.js.map": "/Appscrip-task-Piyush/static/js/main.bc95bcd4.js.map",
+    "main.289844ab.css.map": "/Appscrip-task-Piyush/static/css/main.289844ab.css.map",
+    "main.de028e87.js.map": "/Appscrip-task-Piyush/static/js/main.de028e87.js.map",
     "488.b566bca9.chunk.js.map": "/Appscrip-task-Piyush/static/js/488.b566bca9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8bb11e95.css",
-    "static/js/main.bc95bcd4.js"
+    "static/css/main.289844ab.css",
+    "static/js/main.de028e87.js"
   ]
 }
